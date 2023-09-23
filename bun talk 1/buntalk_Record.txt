@@ -1,0 +1,80 @@
+item is=1  quantity is=3 total is=300
+---------------------------------------------
+1 . Assorted Pastries Rs.100/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.150/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.250/-
+---------------------------------------
+item is=2  quantity is=6 total is=1500
+---------------------------------------------
+1 . Assorted Pastries Rs.100/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.150/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.250/-
+---------------------------------------
+item is=1  quantity is=2 total is=200
+---------------------------------------------
+1 . Assorted Pastries Rs.100/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.150/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.250/-
+---------------------------------------
+item is=2  quantity is=3 total is=800
+---------------------------------------------
+1 . Assorted Pastries Rs.100/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.150/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.250/-
+---------------------------------------
+item is=3  quantity is=5 total is=1550
+---------------------------------------------
+1 . Assorted Pastries Rs.100/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.150/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.250/-
+---------------------------------------
+item is=1  quantity is=2 total is=200
+---------------------------------------------
+1 . Assorted Pastries Rs.100/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.150/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.250/-
+---------------------------------------
+item is=2  quantity is=3 total is=800
+---------------------------------------------
+1 . Assorted Pastries Rs.100/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.150/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.250/-
+---------------------------------------
+item is=1  quantity is=2 total is=200
+---------------------------------------------
+1 . Assorted Pastries Rs.100/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.150/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.250/-
+---------------------------------------
+item is=3  quantity is=5 total is=950
+---------------------------------------------
+1 . Assorted Pastries Rs.100/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.150/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.250/-
+---------------------------------------
+item is=2  quantity is=3 total is=1550
+---------------------------------------------
+1 . Assorted Pastries Rs.100/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.150/-
+ 2. Freshly Baked Breads Rs.200/-
+ 2. Freshly Baked Breads Rs.250/-
+---------------------------------------

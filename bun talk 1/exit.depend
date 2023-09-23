@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1692949446 source:c:\users\ranus\desktop\programing assiment\bun talk\exit\login\help\main.cpp
+	<iostream>
+
+1694490975 source:c:\users\ranus\desktop\programing assignment\bun talk 1\main.cpp
+	<iostream>
+	<fstream>
+
